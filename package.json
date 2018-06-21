@@ -1,0 +1,22 @@
+{
+  "name": "display-app",
+  "version": "1.0.0",
+  "description": "nodejs app that will be on a Raspberry Pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellySmi/display-app.git"
+  },
+  "author": "kelly smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kellySmi/display-app/issues"
+  },
+  "homepage": "https://github.com/kellySmi/display-app#readme",
+  "dependencies": {
+    "express-generator": "^4.16.0"
+  }
+}
